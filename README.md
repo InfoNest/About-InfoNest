@@ -7,3 +7,11 @@ We generate insights for business growth and sustenance based on historical, pre
   - Valuable and accurate insights 
   - Visibly reduce cost
   - Improve operations.
+
+# Macroeconomic variables
+  - inflation rate
+  - unemployemnt rate
+  - interest rate
+  - exchange rate
+  - other government policies and regulations*
+  - demographics
