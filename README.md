@@ -1,5 +1,5 @@
 # About-InfoNest
-We generate insights for business growth and sustenance based on historical, present and macroeconomic data.
+We generate insights for business growth and sustenance based on historical and present macroeconomic and microeconomic data.
 
 # Value propostion-InfoNest
   - Timely decisions
@@ -15,3 +15,4 @@ We generate insights for business growth and sustenance based on historical, pre
   - exchange rate
   - other government policies and regulations*
   - demographics
+  - GDP
